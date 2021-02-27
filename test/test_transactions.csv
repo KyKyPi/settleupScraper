@@ -1,0 +1,8 @@
+﻿sep=,
+Who paid,Amount,Currency,For whom,Split amounts,Purpose,Category,Date & time,Exchange rate,Converted amount,Type,Receipt
+"Bryce Beagle","555.44","USD","Kylee;Bryce Beagle","277.72;277.72","Flight","","2020-10-13 05:08:19","","555.44","expense",""
+"Kylee","214.45","USD","Kylee;Bryce Beagle","107.225;107.225","Hotel","","2020-10-13 05:10:51","","214.45","expense",""
+"Kylee","34.67","USD","Kylee;Bryce Beagle;John Doe;Jane Doe","8.6675;8.6675;8.6675;8.6675","Dinner","","2020-11-12 03:07:22","","34.67","expense",""
+"John Doe","124.5","USD","Kylee;Bryce Beagle;John Doe;Jane Doe","31.125;31.125;31.125;31.125","Groceries","","2020-11-12 10:07:49","","124.5","expense",""
+"Bryce Beagle","80.23","USD","Kylee;Bryce Beagle;John Doe;Jane Doe","20.0575;20.0575;20.0575;20.0575","Sushi","","2021-02-09 10:11:26","","80.23","expense",""
+"John Doe","15","USD","John Doe;Jane Doe","7.5;7.5","Date","","2021-02-23 10:12:43","","15","expense",""
